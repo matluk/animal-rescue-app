@@ -1,0 +1,442 @@
+[{
+  "_id": {
+    "$oid": "66269eab168691ce118503bd"
+  },
+  "type": "food",
+  "description": "High-quality dog food for large breeds",
+  "value": 50,
+  "category": "seeking",
+  "user": {
+    "$oid": "662d1460f8b8082917881c2e"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66269eab168691ce118503be"
+  },
+  "type": "medicines",
+  "description": "Heartworm prevention medication for cats",
+  "value": 20,
+  "category": "donated",
+  "user": {
+    "$oid": "662ff05e11d5822ed7c1b601"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66269eab168691ce118503bf"
+  },
+  "type": "toys",
+  "description": "Interactive puzzle toy for dogs",
+  "value": 15,
+  "category": "seeking",
+  "user": {
+    "$oid": "663175b1705fb8265d2aeea1"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66269eab168691ce118503c0"
+  },
+  "type": "vet-costs",
+  "description": "Surgery for a broken leg on a stray cat",
+  "value": 300,
+  "category": "offered",
+  "user": {
+    "$oid": "662d1460f8b8082917881c2e"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66269eab168691ce118503c1"
+  },
+  "type": "food",
+  "description": "Canned food for senior dogs",
+  "value": 25,
+  "category": "seeking",
+  "user": {
+    "$oid": "662d1460f8b8082917881c2e"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66269eab168691ce118503c2"
+  },
+  "type": "medicines",
+  "description": "Antibiotics for a kitten with a respiratory infection",
+  "value": 35,
+  "category": "donated",
+  "user": {
+    "$oid": "662ff05e11d5822ed7c1b601"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66269eab168691ce118503c3"
+  },
+  "type": "toys",
+  "description": "Chew toys for puppies",
+  "value": 10,
+  "category": "seeking",
+  "user": {
+    "$oid": "663175b1705fb8265d2aeea1"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66269eab168691ce118503c4"
+  },
+  "type": "vet-costs",
+  "description": "Dental cleaning for a senior dog",
+  "value": 150,
+  "category": "donated",
+  "user": {
+    "$oid": "662ff05e11d5822ed7c1b601"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66269eab168691ce118503c5"
+  },
+  "type": "food",
+  "description": "Dry food for kittens",
+  "value": 20,
+  "category": "seeking",
+  "user": {
+    "$oid": "662ff05e11d5822ed7c1b601"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66269eab168691ce118503c6"
+  },
+  "type": "medicines",
+  "description": "Flea medication for dogs",
+  "value": 25,
+  "category": "offered",
+  "user": {
+    "$oid": "662ff05e11d5822ed7c1b601"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66269eab168691ce118503c7"
+  },
+  "type": "toys",
+  "description": "Catnip toys for cats",
+  "value": 8,
+  "category": "seeking",
+  "user": {
+    "$oid": "662ff05e11d5822ed7c1b601"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66269eab168691ce118503c8"
+  },
+  "type": "vet-costs",
+  "description": "X-rays for a dog with a suspected broken rib",
+  "value": 200,
+  "category": "donated",
+  "user": {
+    "$oid": "66301228442d1818735decb0"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66269eab168691ce118503c9"
+  },
+  "type": "food",
+  "description": "Wet food for cats with sensitive stomachs",
+  "value": 30,
+  "category": "seeking",
+  "user": {
+    "$oid": "662ff05e11d5822ed7c1b601"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66269eab168691ce118503ca"
+  },
+  "type": "medicines",
+  "description": "Joint supplements for an elderly dog",
+  "value": 40,
+  "category": "donated",
+  "user": {
+    "$oid": "662d1460f8b8082917881c2e"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66269eab168691ce118503cb"
+  },
+  "type": "toys",
+  "description": "Squeaky toys for dogs",
+  "value": 12,
+  "category": "seeking",
+  "user": {
+    "$oid": "66301228442d1818735decb0"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66269eab168691ce118503cc"
+  },
+  "type": "food",
+  "description": "Rawhide chews for dogs",
+  "value": 20,
+  "category": "offered",
+  "user": {
+    "$oid": "66301228442d1818735decb0"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66269eab168691ce118503cd"
+  },
+  "type": "medicines",
+  "description": "Flea and tick prevention medication for cats",
+  "value": 30,
+  "category": "seeking",
+  "user": {
+    "$oid": "662ff05e11d5822ed7c1b601"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66269eab168691ce118503ce"
+  },
+  "type": "toys",
+  "description": "Kong toys for dogs",
+  "value": 15,
+  "category": "donated",
+  "user": {
+    "$oid": "663175b1705fb8265d2aeea1"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66269eab168691ce118503cf"
+  },
+  "type": "vet-costs",
+  "description": "Surgery for a cat with bladder stones",
+  "value": 400,
+  "category": "seeking",
+  "user": {
+    "$oid": "662ff05e11d5822ed7c1b601"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66269eab168691ce118503d0"
+  },
+  "type": "food",
+  "description": "Grain-free dog food for dogs with food allergies",
+  "value": 45,
+  "category": "donated",
+  "user": {
+    "$oid": "662d1460f8b8082917881c2e"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66269eab168691ce118503d1"
+  },
+  "type": "medicines",
+  "description": "Heart medication for a senior dog with heart disease",
+  "value": 50,
+  "category": "seeking",
+  "user": {
+    "$oid": "663175b1705fb8265d2aeea1"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66269eab168691ce118503d2"
+  },
+  "type": "toys",
+  "description": "Feather wand toys for cats",
+  "value": 12,
+  "category": "offered",
+  "user": {
+    "$oid": "663175b1705fb8265d2aeea1"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66269eab168691ce118503d3"
+  },
+  "type": "vet-costs",
+  "description": "Emergency medical care for a dog hit by a car",
+  "value": 1000,
+  "category": "seeking",
+  "user": {
+    "$oid": "662ff05e11d5822ed7c1b601"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66269eab168691ce118503d4"
+  },
+  "type": "food",
+  "description": "Freeze-dried raw food for cats",
+  "value": 35,
+  "category": "donated",
+  "user": {
+    "$oid": "663175b1705fb8265d2aeea1"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66269eab168691ce118503d5"
+  },
+  "type": "medicines",
+  "description": "Eye drops for a dog with an eye infection",
+  "value": 25,
+  "category": "seeking",
+  "user": {
+    "$oid": "663173e6705fb8265d2aee91"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66269eab168691ce118503d6"
+  },
+  "type": "toys",
+  "description": "Interactive laser toys for cats",
+  "value": 20,
+  "category": "donated",
+  "user": {
+    "$oid": "663173e6705fb8265d2aee91"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66269eab168691ce118503d7"
+  },
+  "type": "vet-costs",
+  "description": "Ultrasound for a pregnant dog",
+  "value": 250,
+  "category": "donated",
+  "user": {
+    "$oid": "66301228442d1818735decb0"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66269eab168691ce118503d8"
+  },
+  "type": "food",
+  "description": "Senior cat food with added joint support",
+  "value": 30,
+  "category": "donated",
+  "user": {
+    "$oid": "66301228442d1818735decb0"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66269eab168691ce118503d9"
+  },
+  "type": "medicines",
+  "description": "Antihistamines for a dog with allergies",
+  "value": 15,
+  "category": "donated",
+  "user": {
+    "$oid": "663175b1705fb8265d2aeea1"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66269eab168691ce118503da"
+  },
+  "type": "toys",
+  "description": "Nylabone chew toys for dogs",
+  "value": 10,
+  "category": "seeking",
+  "user": {
+    "$oid": "662d1460f8b8082917881c2e"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66317007eee77827227b938b"
+  },
+  "type": "food",
+  "description": "Senior cat food with added joint support",
+  "value": 30,
+  "category": "offered",
+  "user": {
+    "$oid": "662d1460f8b8082917881c2e"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6632d4caa748c394fc38c03e"
+  },
+  "type": "vet-costs",
+  "description": "Emergency medical care for a dog hit by a car",
+  "value": 1000,
+  "category": "seeking",
+  "user": {
+    "$oid": "662d1460f8b8082917881c2e"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6632df13a748c394fc38c072"
+  },
+  "type": "money",
+  "description": "Gift for old cat",
+  "value": 30,
+  "category": "seeking",
+  "user": {
+    "$oid": "662ec8c80f429ade5916ec1b"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66369f1a5a3368da970cdf3c"
+  },
+  "type": "food",
+  "description": "Plenty of food for dogs...",
+  "value": 50,
+  "category": "offered",
+  "user": {
+    "$oid": "662ff05e11d5822ed7c1b601"
+  },
+  "__v": 0
+}]

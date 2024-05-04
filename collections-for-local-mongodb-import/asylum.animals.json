@@ -1,0 +1,366 @@
+[{
+  "_id": {
+    "$oid": "66269eab168691ce1185039a"
+  },
+  "name": "Buddy",
+  "image": "https://images.unsplash.com/photo-1561037404-61cd46aa615b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2340&q=80",
+  "type": "dog",
+  "isChipped": true,
+  "age": 3,
+  "description": "Buddy is a friendly and energetic dog who loves to play fetch.",
+  "lastExaminatedAt": {
+    "$numberLong": "1662681600000"
+  },
+  "isAdopted": true,
+  "__v": 0,
+  "adoptedBy": {
+    "$oid": "66316e77eee77827227b9324"
+  }
+},
+{
+  "_id": {
+    "$oid": "66269eab168691ce1185039b"
+  },
+  "name": "Fluffy",
+  "image": "https://images.unsplash.com/photo-1519052537078-e6302a4968d4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2370&q=80",
+  "type": "cat",
+  "isChipped": true,
+  "age": 2,
+  "description": "Fluffy is a shy but affectionate cat who loves to cuddle.",
+  "lastExaminatedAt": {
+    "$numberLong": "1663718400000"
+  },
+  "isAdopted": true,
+  "__v": 0,
+  "adoptedBy": {
+    "$oid": "66369d4d5a3368da970cde96"
+  }
+},
+{
+  "_id": {
+    "$oid": "66269eab168691ce1185039c"
+  },
+  "name": "Max",
+  "image": "https://images.unsplash.com/photo-1587300003388-59208cc962cb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2370&q=80",
+  "type": "dog",
+  "isChipped": true,
+  "age": 4,
+  "description": "Max is a loyal and well-behaved dog who loves to go on walks.",
+  "lastExaminatedAt": {
+    "$numberLong": "1662681600000"
+  },
+  "isAdopted": true,
+  "__v": 0,
+  "adoptedBy": {
+    "$oid": "66369d575a3368da970cde98"
+  }
+},
+{
+  "_id": {
+    "$oid": "66269eab168691ce1185039d"
+  },
+  "name": "Mittens",
+  "image": "https://images.unsplash.com/photo-1491485880348-85d48a9e5312?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2370&q=80",
+  "type": "cat",
+  "isChipped": true,
+  "age": 1,
+  "description": "Mittens is a playful and curious kitten who loves to explore.",
+  "lastExaminatedAt": {
+    "$numberLong": "1662745900000"
+  },
+  "isAdopted": true,
+  "__v": 0,
+  "adoptedBy": {
+    "$oid": "662d1460f8b8082917881c2e"
+  }
+},
+{
+  "_id": {
+    "$oid": "66269eab168691ce1185039e"
+  },
+  "name": "Rocky",
+  "image": "https://images.unsplash.com/photo-1543466835-00a7907e9de1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2148&q=80",
+  "type": "dog",
+  "isChipped": false,
+  "age": 2,
+  "description": "Rocky is a high-energy dog who loves to run and play.",
+  "lastExaminatedAt": {
+    "$numberLong": "1662745900000"
+  },
+  "isAdopted": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66269eab168691ce1185039f"
+  },
+  "name": "Simba",
+  "image": "https://images.unsplash.com/photo-1626602411112-10742f9a3ab8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2148&q=80",
+  "type": "cat",
+  "isChipped": false,
+  "age": 2,
+  "description": "Simba is a playful and friendly cat who loves to play with strings.",
+  "lastExaminatedAt": {
+    "$numberLong": "1662745900000"
+  },
+  "isAdopted": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66269eab168691ce118503a0"
+  },
+  "name": "Daisy",
+  "image": "https://images.unsplash.com/photo-1537151625747-768eb6cf92b2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=985&q=80",
+  "type": "dog",
+  "isChipped": true,
+  "age": 4,
+  "description": "Daisy is a smart and affectionate dog who loves to learn new tricks.",
+  "lastExaminatedAt": {
+    "$numberLong": "1662745900000"
+  },
+  "isAdopted": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66269eab168691ce118503a1"
+  },
+  "name": "Garfield",
+  "image": "https://images.unsplash.com/photo-1584290867415-527a8475726d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2370&q=80",
+  "type": "cat",
+  "isChipped": true,
+  "age": 5,
+  "description": "Garfield is a lazy but lovable cat who enjoys napping and eating lasagna.",
+  "lastExaminatedAt": {
+    "$numberLong": "1662681600000"
+  },
+  "isAdopted": false,
+  "__v": 0,
+  "adoptedBy": null
+},
+{
+  "_id": {
+    "$oid": "66269eab168691ce118503a2"
+  },
+  "name": "Rufus",
+  "image": "https://images.unsplash.com/photo-1477884213360-7e9d7dcc1e48?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2370&q=80",
+  "type": "dog",
+  "isChipped": true,
+  "age": 6,
+  "description": "Rufus is a loyal and protective dog who loves to go for runs.",
+  "lastExaminatedAt": {
+    "$numberLong": "1662745900000"
+  },
+  "isAdopted": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66269eab168691ce118503a3"
+  },
+  "name": "Socks",
+  "image": "https://images.unsplash.com/photo-1597626133663-53df9633b799?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1480&q=80",
+  "type": "cat",
+  "isChipped": false,
+  "age": 3,
+  "description": "Socks is a curious and adventurous cat who loves to explore new places.",
+  "lastExaminatedAt": {
+    "$numberLong": "1662681600000"
+  },
+  "isAdopted": false,
+  "__v": 0,
+  "adoptedBy": null
+},
+{
+  "_id": {
+    "$oid": "66269eab168691ce118503a4"
+  },
+  "name": "Kiwi",
+  "image": "https://images.unsplash.com/photo-1602000153456-db4aea496f16?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2370&q=80",
+  "type": "other",
+  "isChipped": false,
+  "age": 1,
+  "description": "Kiwi is a colorful and energetic bird who loves to sing and play with toys.",
+  "lastExaminatedAt": {
+    "$numberLong": "1662745900000"
+  },
+  "isAdopted": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66269eab168691ce118503a5"
+  },
+  "name": "Goldie",
+  "image": "https://images.unsplash.com/photo-1592067068562-11490d9515b3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2370&q=80",
+  "type": "other",
+  "isChipped": false,
+  "age": 2,
+  "description": "Goldie is a beautiful and graceful fish who loves to swim and explore her tank.",
+  "lastExaminatedAt": {
+    "$numberLong": "1662745900000"
+  },
+  "isAdopted": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66269eab168691ce118503a6"
+  },
+  "name": "Polly",
+  "image": "https://images.unsplash.com/photo-1536769707221-1e05fb8fb074?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2376&q=80",
+  "type": "other",
+  "isChipped": true,
+  "age": 4,
+  "description": "Polly is a talkative and sociable parrot who loves to mimic sounds and interact with people.",
+  "lastExaminatedAt": {
+    "$numberLong": "1662745900000"
+  },
+  "isAdopted": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66269eab168691ce118503a7"
+  },
+  "name": "Bubbles",
+  "image": "https://images.unsplash.com/photo-1520989244660-118e51ae94bc?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2370&q=80",
+  "type": "other",
+  "isChipped": true,
+  "age": 3,
+  "description": "Bubbles is a playful and curious fish who loves to swim through bubbles and hide in plants.",
+  "lastExaminatedAt": {
+    "$numberLong": "1662681600000"
+  },
+  "isAdopted": false,
+  "__v": 0,
+  "adoptedBy": null
+},
+{
+  "_id": {
+    "$oid": "66269eab168691ce118503a8"
+  },
+  "name": "Tweety",
+  "image": "https://images.unsplash.com/photo-1458410489211-ba19aa2f2902?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2392&q=80",
+  "type": "other",
+  "isChipped": false,
+  "age": 2,
+  "description": "Tweety is a sweet and gentle bird who loves to chirp and cuddle with her favorite person.",
+  "lastExaminatedAt": {
+    "$numberLong": "1662681600000"
+  },
+  "isAdopted": false,
+  "__v": 0,
+  "adoptedBy": null
+},
+{
+  "_id": {
+    "$oid": "66269eab168691ce118503a9"
+  },
+  "name": "Rusty",
+  "type": "dog",
+  "isChipped": true,
+  "age": 2,
+  "description": "Rusty is a playful and adventurous dog with a love for exploring the outdoors.",
+  "lastExaminatedAt": {
+    "$numberLong": "1693764120000"
+  },
+  "isAdopted": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66269eab168691ce118503aa"
+  },
+  "name": "Smokey",
+  "type": "cat",
+  "isChipped": false,
+  "age": 3,
+  "description": "Smokey is a calm and affectionate cat with a beautiful gray coat.",
+  "lastExaminatedAt": {
+    "$numberLong": "1691020800000"
+  },
+  "isAdopted": false,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66269eab168691ce118503ab"
+  },
+  "name": "Bailey",
+  "type": "dog",
+  "isChipped": true,
+  "age": 4,
+  "description": "Bailey is a gentle and well-behaved dog who enjoys lounging in the sun.",
+  "lastExaminatedAt": {
+    "$numberLong": "1688169600000"
+  },
+  "isAdopted": false,
+  "__v": 0,
+  "image": "",
+  "adoptedBy": null
+},
+{
+  "_id": {
+    "$oid": "66269eab168691ce118503ac"
+  },
+  "name": "Whiskers",
+  "type": "cat",
+  "isChipped": true,
+  "age": 2,
+  "description": "Whiskers is a playful and mischievous cat with a love for climbing.",
+  "lastExaminatedAt": {
+    "$numberLong": "1685404800000"
+  },
+  "isAdopted": false,
+  "__v": 0,
+  "image": ""
+},
+{
+  "_id": {
+    "$oid": "66269eab168691ce118503ad"
+  },
+  "name": "Max",
+  "type": "dog",
+  "isChipped": false,
+  "age": 2,
+  "description": "Max is an energetic and friendly dog who loves to run and play.",
+  "lastExaminatedAt": {
+    "$numberLong": "1682574440000"
+  },
+  "isAdopted": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66269eab168691ce118503ae"
+  },
+  "name": "Maxy",
+  "type": "dog",
+  "isChipped": false,
+  "age": 2,
+  "description": "Rocky is a playful and friendly dog who enjoys fetching balls.",
+  "lastExaminatedAt": {
+    "$numberLong": "1682574440000"
+  },
+  "isAdopted": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663012ca8533e6e47eecafca"
+  },
+  "name": "doggy dogg",
+  "image": "",
+  "type": "dog",
+  "isChipped": true,
+  "age": 2,
+  "description": "I am doggy dogg, playful and friendly.",
+  "lastExaminatedAt": {
+    "$numberLong": "1714435200000"
+  },
+  "isAdopted": false,
+  "__v": 0,
+  "adoptedBy": null
+}]

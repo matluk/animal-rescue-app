@@ -1,0 +1,219 @@
+[{
+  "_id": {
+    "$oid": "66269eab168691ce118503b0"
+  },
+  "title": "Kitten Season",
+  "description": "It's kitten season again, and that means we'll be seeing a lot of cute and cuddly kittens coming through our doors. While kittens are undeniably adorable, they also require a lot of care.",
+  "isImportant": true,
+  "createdAt": {
+    "$numberLong": "1662745000000"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66269eab168691ce118503b1"
+  },
+  "title": "Adopt a pet",
+  "description": "We have dogs, cats, and other small animals looking for their forever homes, and we'd love to help you find your perfect match.",
+  "isImportant": true,
+  "createdAt": {
+    "$numberLong": "1714598316933"
+  },
+  "__v": 0,
+  "user": {
+    "$oid": "662ff05e11d5822ed7c1b601"
+  }
+},
+{
+  "_id": {
+    "$oid": "66269eab168691ce118503b2"
+  },
+  "title": "Virus Awareness",
+  "description": "Did you know that cats can contract Feline Immunodeficiency Virus (FIV)? This virus attacks a cat's immune system and can cause a number of health issues.",
+  "isImportant": false,
+  "createdAt": {
+    "$numberLong": "1662745200000"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66269eab168691ce118503b3"
+  },
+  "title": "Hurricane Relief",
+  "description": "We're working with local shelters and organizations to rescue animals in need, provide medical care, and help reunite lost pets with their owners.",
+  "isImportant": true,
+  "createdAt": {
+    "$numberLong": "1662745300000"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66269eab168691ce118503b4"
+  },
+  "title": "Clear the Shelters",
+  "description": "Join us for Clear the Shelters Day and help us find homes for all of our furry friends! We're waiving adoption fees and offering special discounts on pet supplies.",
+  "isImportant": true,
+  "createdAt": {
+    "$numberLong": "1662745400000"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66269eab168691ce118503b5"
+  },
+  "title": "Holiday Donations",
+  "description": "Help us make the holidays a little brighter for our furry friends by participating in our holiday donation drive.",
+  "isImportant": false,
+  "createdAt": {
+    "$numberLong": "1662745500000"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66269eab168691ce118503b6"
+  },
+  "title": "Valentine's Day",
+  "description": "Fall in love with a new furry friend this Valentine's Day! Join us for our adoption event and meet some of our adoptable pets.",
+  "isImportant": true,
+  "createdAt": {
+    "$numberLong": "1662745600000"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66269eab168691ce118503b7"
+  },
+  "title": "Puppy Socialization",
+  "description": "Is your new puppy in need of socialization? Join us for our puppy socialization class, where your furry friend can learn valuable skills and meet other puppies.",
+  "isImportant": false,
+  "createdAt": {
+    "$numberLong": "1650182400000"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66269eab168691ce118503b8"
+  },
+  "title": "Summer Safety",
+  "description": "Summer can be a fun time for pets, but it can also be dangerous. Make sure your furry friends stay safe in the summer heat by providing plenty of fresh water and shade.",
+  "isImportant": true,
+  "createdAt": {
+    "$numberLong": "1637619200000"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66269eab168691ce118503b9"
+  },
+  "title": "National Dog Day",
+  "description": "Celebrate National Dog Day with a new furry friend! Join us for our adoption event and meet some of our adoptable dogs. We'll have treats for both you and your furry friend.",
+  "isImportant": true,
+  "createdAt": {
+    "$numberLong": "1625056000000"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66269eab168691ce118503ba"
+  },
+  "title": "Photos with Santa",
+  "description": "It's that time of year again! Bring your furry friend to our Pet Photos with Santa event and get a keepsake photo of your pet with jolly old St. Nick.",
+  "isImportant": false,
+  "createdAt": {
+    "$numberLong": "1612492800000"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66269eab168691ce118503bb"
+  },
+  "title": "Foster Orientation",
+  "description": "Attend our Foster Orientation and learn all about our foster program. Our foster parents play a critical role in helping our animals find their forever homes.",
+  "isImportant": false,
+  "createdAt": {
+    "$numberLong": "1599929600000"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66269eab168691ce118503bc"
+  },
+  "title": "Kitty Playtime",
+  "description": "Join us for Kitty Playtime, where you can spend quality time with our adoptable cats and kittens. Our playtime sessions are a great way to get to know our feline friends and see their personalities.",
+  "isImportant": true,
+  "createdAt": {
+    "$numberLong": "1587366400000"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6632b0f29b79f7054a888f69"
+  },
+  "title": "Kitten season",
+  "description": "Calling all volunteers! Join us for a special meeting to discuss our plans for kitten season. Your help is crucial in ensuring these little ones get the care and attention they deserve.",
+  "isImportant": false,
+  "createdAt": {
+    "$numberLong": "1714598130791"
+  },
+  "user": {
+    "$oid": "662ff05e11d5822ed7c1b601"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6632b1309b79f7054a888f78"
+  },
+  "title": "Appreciation day",
+  "description": "To celebrate our amazing volunteers, we're hosting a special Volunteer Appreciation Day event. We couldn't do what we do without the hard work and dedication of our volunteers.",
+  "isImportant": true,
+  "createdAt": {
+    "$numberLong": "1714598192977"
+  },
+  "user": {
+    "$oid": "66316e77eee77827227b9324"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6632b17e9b79f7054a888f8b"
+  },
+  "title": "Holiday donations",
+  "description": "Help us make the holidays a little brighter for our furry friends by participating in our holiday donation drive.",
+  "isImportant": false,
+  "createdAt": {
+    "$numberLong": "1714598270289"
+  },
+  "user": {
+    "$oid": "66301228442d1818735decb0"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66369eb85a3368da970cdf1a"
+  },
+  "title": "Ante's notification",
+  "description": "Some delightful description...",
+  "isImportant": true,
+  "createdAt": {
+    "$numberLong": "1714855608473"
+  },
+  "user": {
+    "$oid": "66369d575a3368da970cde98"
+  },
+  "__v": 0
+}]

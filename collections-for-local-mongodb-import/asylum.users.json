@@ -1,0 +1,100 @@
+[{
+  "_id": {
+    "$oid": "662d1460f8b8082917881c2e"
+  },
+  "username": "matko",
+  "email": "matko@gmail.com",
+  "role": "user",
+  "password": "$2b$10$knfG85468AgJUeF0bn4rru0iTW7d0hIhyoqpYcjIH7TUv8HzQm9lK",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ec8c80f429ade5916ec1b"
+  },
+  "username": "Matija",
+  "email": "matko123@gmail.com",
+  "role": "admin",
+  "password": "$2b$10$oN1BDB/RohgLRqbgml2au.lx7hAkB2yFMGFxvfNZ7FCiHrCGasM8m",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662ff05e11d5822ed7c1b601"
+  },
+  "username": "ana",
+  "email": "ana@gmail.com",
+  "role": "user",
+  "password": "$2b$10$i7abJnKrcd4Mgn2BtzH09uUvsZdtgT4yjtQHPFmn.7s6mfNjVaXHW",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66301228442d1818735decb0"
+  },
+  "username": "luka",
+  "email": "luka@gmail.com",
+  "role": "user",
+  "password": "$2b$10$piXMQ1bBpLQijUIu1ihONucOUrBhbbbigYHTwlGXprVefbpS4Z7VK",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66316e77eee77827227b9324"
+  },
+  "username": "marko",
+  "email": "marko@gmail.com",
+  "role": "admin",
+  "password": "$2b$10$4LaRGTbHliRKhtmjIe9Zx.Lfeisvz1WuJN/KgVgZNMM/HHz4nQJFq",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66316fc8eee77827227b9380"
+  },
+  "username": "marko2",
+  "email": "marko2@gmail.com",
+  "role": "user",
+  "password": "$2b$10$53ySOAyfWPv4e1gEwII6..KvBVEw.pEDGpHuD28Vvb3BACVh4hHy.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663173e6705fb8265d2aee91"
+  },
+  "username": "signup",
+  "email": "signup@gmail.com",
+  "role": "user",
+  "password": "$2b$10$lDC3v1IHSa1Fh./C1rOxW.E4BhZQnRK46PMiCjE5DcB9sFgp9uoXu",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663175b1705fb8265d2aeea1"
+  },
+  "username": "marko3",
+  "email": "marko3@gmail.com",
+  "role": "user",
+  "password": "$2b$10$tWyzlH.lUYAEn6R6Getfa.PHQo9mMscS9qsLTmLAOJ9xkb9/tsHki",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66369d4d5a3368da970cde96"
+  },
+  "username": "ante",
+  "email": "ante@gmail.com",
+  "role": "user",
+  "password": "$2b$10$pwveocAmx7NUXYWVr1NlR.CzuZ3mrNFNsVS27WZpW0SaljfpQHr9q",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66369d575a3368da970cde98"
+  },
+  "username": "ante",
+  "email": "ante2@gmail.com",
+  "role": "admin",
+  "password": "$2b$10$hYhrfVHs/zgmEzBM5PLrTuqQQZlwwlM8fz1x7xUq4ApZ.2OWkijwq",
+  "__v": 0
+}]
